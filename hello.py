@@ -1,0 +1,21 @@
+
+print("==================================================")
+print("                     BIODATA                      ")
+print("==================================================")
+
+nama=input("Nama : ")
+nim=input("NIM : ")
+kelas=input("Kelas : ")
+prodi=input("Program Studi : ")
+angkatan=input("Angkatan : ")
+universitas=input("Universitas : ")
+print("                                  ")
+print("                                  ")
+print("             BIODATA           ")
+print ("Hallo perkenalkan, Namaku " + nama)
+print ("NIM " + nim)
+print ("dari Kelas " + kelas)
+print ("prodi " + prodi)
+print ("angkatan" + angkatan)
+print ("dari " + universitas)
+
